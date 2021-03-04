@@ -1,0 +1,23 @@
+figcaption {font-size: 20px;}
+        span {
+            font-size: 20px;}
+        h1 {
+            color: rgb(255, 213, 255);}
+        body {
+            background-color: rgb(26, 6, 36);}
+        main {
+            color: aqua;
+            display: flex;
+      justify-content: center;
+      align-items: center;
+      flex-direction: column;
+      border: 50px solid rgb(0, 0, 0);
+      width: 500px;
+      margin: 140px auto;
+      font-family: Arial, Helvetica, sans-serif;
+      border-radius: 10%;}
+
+      #img {
+          border-radius: 10%;
+      }
+      #tximg {color: rgb(74, 160, 240) ;}
